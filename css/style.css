@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(155, 161, 124);
+}
+.description{
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img{
+    width: 50%;
+    height: auto;
+}
+.ingredients{
+    font-size: medium;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.directions{
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
